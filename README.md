@@ -11,7 +11,7 @@ wiringPi for Repka Pi
 ## How to build wiringOP
 
 ```
-# cd wiringOP
+# cd wiringRP
 # ./build clean
 # ./build 
 ```
