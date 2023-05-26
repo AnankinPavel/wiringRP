@@ -16,6 +16,12 @@ wiringPi for Repka Pi
 # ./build 
 ```
 
+
+## How to uninstall wiringOP
+
+```
+# ./build uninstall
+```
 ---
 ## The output of the gpio readall command
 
